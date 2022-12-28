@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atanu20uparsole@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fKgtwJQ5DqHPaBkiKHv2TEQhgVCO7kXz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AjfSNL-3_Mfng0bdW0p9CB3-NEq9?e=8KtGaR)
 
 - ⚡ Fun fact **I think I'm funny 😃**
 
