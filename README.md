@@ -1,4 +1,4 @@
-<img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436390-6ccb5961-77c1-4bd6-a515-f021bf334b2f.png" alt = "Coding">
+<img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding">
 
 
 <h1 align="center">Hi 👋, I'm Atanu Karmakar</h1>
