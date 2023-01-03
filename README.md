@@ -1,10 +1,11 @@
-<img align="center" width="100%" src = "https://i.postimg.cc/rmtrGnyD/background.png" alt = "Coding">
+<img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436390-6ccb5961-77c1-4bd6-a515-f021bf334b2f.png" alt = "Coding">
 
 
 <h1 align="center">Hi 👋, I'm Atanu Karmakar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" width="400px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu8250&label=Profile%20views&color=0e75b6&style=flat" alt="atanu8250" /> </p>
