@@ -64,10 +64,10 @@
 
 <!-- Trophies -->
 
-## Trophies: <img src="https://www.transparentpng.com/download/trophy/wvL2KJ-flowering-golden-medal-image.png" width="50px" height="40px" align="center"/>
+## Trophies: 🏆
 <p align="center" >
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=atanu8250" alt="atanu8250" />
+		<img src="https://github-profile-trophy.vercel.app/?username=atanu8250&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="atanu8250" />
 	</a>
 </p> 
 
