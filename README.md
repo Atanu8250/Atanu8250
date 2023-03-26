@@ -13,14 +13,14 @@
 
 - 💬 Ask me about **Advance JavaScript** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **atanu20uparsole@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **atanu.karmakar201@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AjfSNL-3_Mfng0dVyp7QsLXQT92h?e=uncCFn)
 
 - ⚡ Fun fact **I think I'm funny 😃**
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanu20uparsole@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanu.karmakar201@gmail.com)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanu-karmakar-7ab110227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzMGKm8MIQieF6jPSo0fxpQ%3D%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Atanu_200)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atanu_200/)
