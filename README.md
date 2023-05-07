@@ -21,6 +21,7 @@
 - ⚡ Fun fact **I think I'm funny 😃**
 - 
 
+
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanu.karmakar201@gmail.com)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanu-karmakar-7ab110227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzMGKm8MIQieF6jPSo0fxpQ%3D%3D)
