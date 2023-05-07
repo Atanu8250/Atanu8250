@@ -18,8 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AjfSNL-3_Mfng0dVyp7QsLXQT92h?e=uncCFn)
 
-- ⚡ Fun fact **I think I'm funny 😃**
-- 
+- ⚡ Fun fact **I think I'm funny 😃** 
 
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
