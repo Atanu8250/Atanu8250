@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **atanu.karmakar201@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AjfSNL-3_Mfng0dVyp7QsLXQT92h?e=uncCFn](https://drive.google.com/file/d/1Z-kKGmGq6Yqez8bDB9c40IJQGCWGkGy9/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z-kKGmGq6Yqez8bDB9c40IJQGCWGkGy9/view?usp=share_link)
 
 - ⚡ Fun fact **I think I'm funny 😃** 
 
