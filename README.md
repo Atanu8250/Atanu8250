@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z-kKGmGq6Yqez8bDB9c40IJQGCWGkGy9/view?usp=share_link)
 
-- ⚡ All Profiles find here **[Check it out](https://atanu_k.bio.link/)** 
+- ⚡ All Profiles find here **[Check it out](https://atanu_karmakar.bio.link/)** 
 
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
