@@ -82,7 +82,7 @@
 
 ## Trophies: 🏆
 <p align="center" >
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<a href="https://github.com/atanu8250">
 		<img src="https://github-profile-trophy.vercel.app/?username=atanu8250&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="atanu8250" />
 	</a>
 </p> 
@@ -92,13 +92,21 @@
 ## Github Stats ✨
 
 <p align="center">
-	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu8250&layout=compact&hide_border=true&theme=radical" />
+	<a href="https://github.com/atanu8250">
+		<img width="33%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu8250&layout=compact&hide_border=true&theme=radical" />
+	</a>
+	<a href="https://github.com/atanu8250">
+		<img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atanu8250&theme=radical" alt="Atanu Github overview"/>
+	</a>
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Atanu8250&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" 			alt="atanu8250" />
-
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atanu8250&layout=compact&hide_border=true&theme=radical" alt="Atanu8250" />
+	<a href="https://github.com/atanu8250">
+  		<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Atanu8250&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="atanu8250" />
+	</a>
+	<a href="https://github.com/atanu8250">
+		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atanu8250&layout=compact&hide_border=true&theme=radical" alt="Atanu8250" />
+	</a>
 </p>
 
 <!-- Footer image -->
