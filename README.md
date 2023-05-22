@@ -81,7 +81,7 @@
 
 <!-- Trophies -->
 
-## Trophies: 🏆
+## Trophies 🏆
 <p align="center" >
 	<a href="https://github.com/atanu8250">
 		<img src="https://github-profile-trophy.vercel.app/?username=atanu8250&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="atanu8250" />
