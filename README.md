@@ -1,6 +1,5 @@
 <!-- <img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding"> -->
 
-
 <h1 align="center">Hi 👋, I'm Atanu Karmakar</h1>
 <h3 align="center">Experienced and disciplined web developer with strong technical skills, committed to creating accessible and user-friendly websites. Quick learner, clear communicator, and able to work independently. Over 1200+ hours of coding experience and solved 700+ DSA Problems.</h3>
 
